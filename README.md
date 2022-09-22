@@ -2,6 +2,8 @@ App gastos -
 
 INICIO DE SESION
 
+<img src='https://user-images.githubusercontent.com/90290161/191749132-f759bd90-db74-4e6d-a79c-a47e5ed2a7a0.png' alt='inicio-sesion' width='50%'/>
+
 ![inicio-sesion](https://user-images.githubusercontent.com/90290161/191749132-f759bd90-db74-4e6d-a79c-a47e5ed2a7a0.png)
 
 CREAR CUENTA
