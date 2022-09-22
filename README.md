@@ -1,15 +1,11 @@
 App gastos -
 
-INICIO DE SESION
 <img src='https://user-images.githubusercontent.com/90290161/191749132-f759bd90-db74-4e6d-a79c-a47e5ed2a7a0.png' alt='inicio-sesion' width='300px'/>
 
-CREAR CUENTA
 <img src='https://user-images.githubusercontent.com/90290161/191749145-7a53c4a2-1066-4984-aed3-2b6e158d4e0a.png' alt='crear-usuario' width='300px'/>
 
-AGREGAR GASTO
 <img src='https://user-images.githubusercontent.com/90290161/191749169-64467255-d5eb-468d-ab7b-bfa03113b955.png' alt='agregar-gasto' width='300px'/>
 
-LISTA DE GASTOS
 <img src='https://user-images.githubusercontent.com/90290161/191749200-be3d97ea-5028-4b96-8411-d418dbac295c.png' alt='lista-gastos' width='300px'/>
 
 
